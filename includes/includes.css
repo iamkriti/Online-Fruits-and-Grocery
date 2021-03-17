@@ -1,0 +1,11 @@
+.menu {
+  width: 20%;
+  float: left;
+  border: 1px solid #aaa;
+  font-family: sans-serif;
+}
+p {
+    font-family: sans-serif , 'Roboto';
+    font-size: 15px;
+    text-rendering: optimizeLegibility;
+}
